@@ -1,0 +1,98 @@
+.logo {
+  width: 100px;
+  border-radius: 20%;
+}
+header {
+  background-color: rgba(61, 61, 121, 0.336);
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  border-radius: 10px;
+  border: outset;
+}
+
+.header-left {
+  display: flex;
+  gap: 20px;
+}
+.header-right {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.textabox1 {
+  background-color: rgb(149, 178, 255);
+  padding: 10px;
+  border-radius: 10px;
+  border: outset;
+}
+.header-main {
+  background-color: rgba(71, 227, 255, 0.384);
+  background-size: 100px;
+  border-color: beige;
+  border-style: outset;
+  border-radius: 10px;
+  display: flex;
+  color: beige;
+}
+body {
+  background-color: rgb(33, 23, 124);
+}
+
+.links {
+  color: black;
+}
+
+p {
+  color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
+  padding: 20px;
+}
+.myndir {
+  display: flex;
+  width: 1000px;
+  height: 260px;
+  overflow: hidden;
+  border: outset;
+  border-radius: 10px;
+  overflow-x: scroll;
+}
+
+.verkefnabox1 {
+  width: 200px;
+  height: 200px;
+  background-color: rgba(154, 94, 211, 0.185);
+  padding: 30px;
+  border-radius: 10px;
+  border: outset;
+  color: beige;
+}
+
+.listar {
+  display: flex;
+  justify-content: space-between;
+}
+.myndir img {
+  width: 270px;
+  height: 230px;
+  border-radius: 10%;
+  display: flex;
+  padding: 8px;
+}
+
+.dagatal {
+  width: 295px;
+  background-color: white;
+  display: flex;
+  border: outset;
+  align-items: center;
+  border: outset black;
+}
+
+h2 {
+  color: rgba(32, 255, 24, 0.911);
+  align-items: center;
+  display: flex;
+  padding: 20px;
+}
